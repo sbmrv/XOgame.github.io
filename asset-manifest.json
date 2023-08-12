@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/XOgame.github.io/static/css/main.041bdba7.css",
+    "main.js": "/XOgame.github.io/static/js/main.c12e3b1f.js",
+    "static/js/787.91e8d0ba.chunk.js": "/XOgame.github.io/static/js/787.91e8d0ba.chunk.js",
+    "index.html": "/XOgame.github.io/index.html",
+    "main.041bdba7.css.map": "/XOgame.github.io/static/css/main.041bdba7.css.map",
+    "main.c12e3b1f.js.map": "/XOgame.github.io/static/js/main.c12e3b1f.js.map",
+    "787.91e8d0ba.chunk.js.map": "/XOgame.github.io/static/js/787.91e8d0ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.041bdba7.css",
+    "static/js/main.c12e3b1f.js"
+  ]
+}
