@@ -6,7 +6,28 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+/* .square{
+  height: 10px;
+  width: 10px;
+  border: none;
+  border-style:groove;
+  border-inline-start: 2px solid blue;
+} */
+.status{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.square{
+  
+}
+.board-row2{
+  text-align: center;
+  margin-top: 100px;
+}
+.board-row3{
+  text-align: center;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
